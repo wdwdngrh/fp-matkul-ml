@@ -8,5 +8,5 @@
 | 5025241091 | Farras Abdurrazaq Ar-Rasyid |
 | 5025241122 | Rennard Filbert Tanjaya |
 
-Link Google Colab: 
+Source Code Notebook Python berada di file `Sourcecode Kelompok 2.ipynb`
 
